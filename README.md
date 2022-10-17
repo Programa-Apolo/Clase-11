@@ -2,10 +2,11 @@
 
 ### Información Programa Apolo 
 Estados Unidos en la década de 1960 en el marco de la carrera espacial con la Unión Soviética durante la Guerra Fría. 
-### Cronología 
-Apolo 1|27 de enero, 967 
+### Cronología Apolo 4|9 de noviembre, 1967
+
+Apolo 1|27 de enero, 1967 
 Prueba orbital planeada en órbita baja terrestre del módulo de mando y servicio del Apolo. 
-Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los astronautas Virgil “Guss” Grissom, Edward White II y Roger Chaffee. 
+Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los astronautas Virgil “Guss” Grissom, Edward White II y Roger Chaffee.
 
 Apolo 4|9 de noviembre, 1967
 Primer vuelo de prueba sin tripulación y que usó un lanzador Saturno V como vehículo impulsor,1
@@ -17,10 +18,16 @@ Se probó un atraque espacial con la tercera fase del cohete Saturno, a la que s
 Se realizó en directo la primera transmisión de las maniobras realizadas, que pudieron ver en nuestro planeta millones de personas.
 Tras 10 días de misión, el amerizaje se efectuó el 22 de octubre de 1968 a menos de 15 kilómetros del lugar previsto para su descenso, a 7 mn (13 km) al norte del buque de recuperación designado, el USS Essex. El vuelo duró 260 horas, 8 minutos y 58 segundos.
 
-
 Apolo 8|21 y 27 de diciembre, 1968
 Enviar a tres astronautas a una órbita alrededor de la Luna
 
 Apolo 9|3 de marzo, 1969
 Tercera misión tripulada del programa Apolo encargado de probar el módulo lunar, cuyos integrantes fueron James A. McDivitt (comandante), David R. Scott y Russell L. Schweickart, quienes utilizaron el habitáculo que debería depositar a los astronautas en la superficie de la Luna.
+
+Apolo 10  | fecha 
+INfo
+
+Apolo 11 | fecha
+Info 
+
 
