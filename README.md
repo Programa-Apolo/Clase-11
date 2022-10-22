@@ -1,7 +1,11 @@
 # Clase11
 
-### Introducción
-Estados Unidos en la década de 1960 en el marco de la carrera espacial con la Unión Soviética durante la Guerra Fría. 
+### La Carrera Espacial
+La carrera espacial fue una pugna entre Estados Unidos y la Unión Soviética por la conquista del espacio que duró aproximadamente de 1955 a 1975. Supuso el esfuerzo paralelo de ambos países de explorar el espacio exterior con satélites artificiales y de enviar humanos al espacio y a la superficie lunar.
+
+Aunque el conflicto se remonta a las primeras tecnologías de cohetes y a las tensiones internacionales tras la Segunda Guerra Mundial, el inicio de la carrera espacial se hizo efectivo con el lanzamiento soviético del Sputnik 1 el 4 de octubre de 1957. El término se acuñó de forma análoga al de la carrera armamentística. La carrera espacial constituyó uno de los ejes principales de rivalidad cultural y tecnológica entre la URSS y los Estados Unidos durante la Guerra Fría. La tecnología espacial se convirtió en una arena particularmente importante en este conflicto, tanto por sus potenciales aplicaciones militares como por sus efectos sobre la opinión pública de uno y otro país.
+
+A pesar de los logros tecnológicos y políticos de ambas superpotencias, el clima ideológico entre estos países aseguró que la carrera espacial continuaría al menos hasta que el primer humano caminara sobre la Luna. Para lograrlo, en un primer momento enviaron naves no tripuladas para explorar la Luna y demostrar la capacidad de alunizar de forma segura.
 
 ### Programa Apolo
 El Programa Apolo fue un programa espacial tripulado desarrollado por Estados Unidos en la década de 1960 en el marco de la carrera espacial con la Unión Soviética durante la Guerra Fría. El proyecto comenzó en julio de 1960, cuando la agencia espacial estadounidense NASA anunció el programa, como continuación de las misiones Mercury, que tendría como objetivo el sobrevuelo tripulado de nuestro satélite para localizar una zona apropiada con vistas a un eventual alunizaje de astronautas, que cumpliría así el viejo sueño del viaje a la Luna por parte del ser humano. 
@@ -17,12 +21,16 @@ El cohete que llevó al Apolo 11 a la Luna, el Saturno V, fue una nave de múlti
 4. **Fase II:** Entra en funcionamiento 5-6 min después del despegue, alcanzando 185 km de altura y se separa a los 9 min del cohete. 
 5. **Fase I:** Es la primera fase en desprenderse del cohete, tras 2:40 min de combustión y 61 km de altura.
 
-#### Apolo 1 | 27  enero, 1967
+###Intinerario del viaje
+Aquí
+
+### Un constante prueba y error
+1. **Apolo 1** | *Enero 27, 1967*
 Prueba orbital planeada en órbita baja terrestre del módulo de mando y servicio del Apolo. 
 Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los astronautas Virgil “Guss” Grissom, Edward White II y Roger Chaffee.
-#### Apolo 4 |  9 de noiembre, 1967
-Primer vuelo de prueba sin tripulación y que usó un lanzador Saturno V como vehículo impulsor,1
-#### Apolo 7 | 11 de ocu, 1968 
+2. **Apolo 4** | *Noviembre 9, 1967*
+Primer vuelo de prueba sin tripulación y que usó un lanzador Saturno V como vehículo impulsor.
+3. **Apolo 7** | *Octubre 11, 1968*
 Lanzado mediante un cohete con la segunda tripulación compuesta por los astronautas Walter M. Schirra —comandante—, Donn F. Eisele y Walter Cunningham.
 La nave fue puesta en una órbita de aparcamiento y durante las 163 órbitas a la Tierra se comprobaron el funcionamiento de la cápsula espacial C.M. y del módulo de servicio, así como los sistemas de comunicaciones.
 Se probó un atraque espacial con la tercera fase del cohete Saturno, a la que se acercó hasta estar a unos 15 metros de distancia, simulando así la unión con el módulo lunar.
