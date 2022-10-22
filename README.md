@@ -8,7 +8,14 @@ El Programa Apolo fue un programa espacial tripulado desarrollado por Estados Un
 
 Los planes iniciales se vieron modificados el 25 de mayo de 1961 con el anuncio del presidente John F. Kennedy de enviar y depositar un hombre en la Luna, y traerlo de vuelta a salvo antes de que finalizara la década. Este objetivo se alcanzó el 20 de julio de 1969, cuando Neil Armstrong y Edwin Buzz Aldrin a bordo de la Apolo 11 alunizaron en el Mar de la Tranquilidad. Este hito histórico se retransmitió a todo el planeta desde las instalaciones del Observatorio Parkes (Australia).
 
-### Cronología Apolo 
+### Saturno V y Apolo 11
+El cohete que llevó al Apolo 11 a la Luna, el Saturno V, fue una nave de múltiples fases que se irían desprendiendo a medida que el viaje avanzara, y que alcanzaba los 110 metros de largo. Una de estas fases era el Apolo 11, donde encontraban los astronautas y el instrumental científico que permitiría llevar a cabo la misión, mientras que en la otras tres (S-IVB, S-II y S-IC) se almacenaba el combustible suficiente para lograr el objetivo de llegar a superficie lunar.
+
+1. **Cohete de escape:** en caso de emergencia podría propulsar el módulo de mando.
+2. **Apolo 11:** compuesto por la nave Columbia, que contiene el módulo de mando y de servicio; y el Módulo Lunar Eagle, que consta de un módulo de descenso y ascenso que le permitirá aterrizar y despegar de superficie lunar. El módulo de mando es donde se encuentran los astronautas y una vez terminada la travesía en la única parte que regresa a la tierra.
+3. **Fase III:** Mide 17, 8 mts de altura y entra en funcionamiento 12 min después del lanzamiento. Una vez se libera del Apolo 11 se estrella contra la superficie lunar.
+4. **Fase II:** Entra en funcionamiento 5-6 min después del despegue, alcanzando 185 km de altura y se separa a los 9 min del cohete. 
+5. **Fase I:** Es la primera fase en desprenderse del cohete, tras 2:40 min de combustión y 61 km de altura.
 
 #### Apolo 1 | 27  enero, 1967
 Prueba orbital planeada en órbita baja terrestre del módulo de mando y servicio del Apolo. 
