@@ -5,6 +5,7 @@ Estados Unidos en la década de 1960 en el marco de la carrera espacial con la U
 
 ### Programa Apolo
 El Programa Apolo fue un programa espacial tripulado desarrollado por Estados Unidos en la década de 1960 en el marco de la carrera espacial con la Unión Soviética durante la Guerra Fría. El proyecto comenzó en julio de 1960, cuando la agencia espacial estadounidense NASA anunció el programa, como continuación de las misiones Mercury, que tendría como objetivo el sobrevuelo tripulado de nuestro satélite para localizar una zona apropiada con vistas a un eventual alunizaje de astronautas, que cumpliría así el viejo sueño del viaje a la Luna por parte del ser humano. 
+
 Los planes iniciales se vieron modificados el 25 de mayo de 1961 con el anuncio del presidente John F. Kennedy de enviar y depositar un hombre en la Luna, y traerlo de vuelta a salvo antes de que finalizara la década. Este objetivo se alcanzó el 20 de julio de 1969, cuando Neil Armstrong y Edwin Buzz Aldrin a bordo de la Apolo 11 alunizaron en el Mar de la Tranquilidad. Este hito histórico se retransmitió a todo el planeta desde las instalaciones del Observatorio Parkes (Australia).
 
 ### Cronología Apolo 
