@@ -1,6 +1,6 @@
 # Clase11
 
-### Información Programa Apolo | primera mirada en la  wiki 
+### Introducción
 Estados Unidos en la década de 1960 en el marco de la carrera espacial con la Unión Soviética durante la Guerra Fría. 
 ### Cronología Apolo 
 #### Apolo 1 | 27  enero, 1967
