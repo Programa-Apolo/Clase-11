@@ -21,7 +21,7 @@ El cohete que llevó al Apolo 11 a la Luna, el Saturno V, fue una nave de múlti
 4. **Fase II:** Entra en funcionamiento 5-6 min después del despegue, alcanzando 185 km de altura y se separa a los 9 min del cohete. 
 5. **Fase I:** Es la primera fase en desprenderse del cohete, tras 2:40 min de combustión y 61 km de altura.
 
-###Intinerario del viaje
+### Intinerario del viaje
 Aquí
 
 ### Un constante prueba y error
