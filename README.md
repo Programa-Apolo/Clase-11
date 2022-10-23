@@ -40,4 +40,4 @@ Aquí escribir
 
 ### Fuentes
 
-(https://www.nationalgeographicla.com/ciencia/2022/04/como-la-carrera-espacial-puso-en-marcha-una-era-de-exploracion-mas-alla-de-la-tierra)
+[Cómo la carrera espacial puso en marcha una era de exploración más allá de la Tierra, National Geographic](https://www.nationalgeographicla.com/ciencia/2022/04/como-la-carrera-espacial-puso-en-marcha-una-era-de-exploracion-mas-alla-de-la-tierra)
