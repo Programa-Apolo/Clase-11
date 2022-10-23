@@ -1,4 +1,4 @@
-# Clase11: *Apolo 11*
+# Clase 11: *Apolo 11*
 
 ### La Carrera Espacial
 La carrera espacial fue una pugna entre Estados Unidos y la Unión Soviética por la conquista del espacio que duró aproximadamente de 1955 a 1975. Supuso el esfuerzo paralelo de ambos países de explorar el espacio exterior con satélites artificiales y de enviar humanos al espacio y a la superficie lunar.
