@@ -31,7 +31,7 @@ Aquí
 
 | Misión | Fecha | Tripulación | Resultados |
 |:----:|:--------|:-----------------|:-----------------------------|
-| 1 | [Apolo](https://github.com/Programa-Apolo) | Karina Anacona, Catalina Vallejos, Dominique Rezepka, Javiera Castro |
+| Apolo 1 | Enero 27, 1967 | Virgil “Guss” Grissom, Edward White II y Roger Chaffee. | Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los 3 astronautas. |
 | 2 | [Shenzhou](https://github.com/Programa-Shenzhou) | Valentina Núñez, Camila Azócar, Dennise Freymuth, Jean Dimter |
 | 3 | [Space X](https://github.com/Space-X-Elon-Musk) | Isidora Rozas, Valentina Waller, Magdalena Muñoz, María Jesús Vidal |
 | 4 | [Blue Origin]( https://github.com/Blue-Jeff-Bezos) | Fernanda Rozas, Trinidad Jerez, Isabela Aylwin, Rocío Villegas |
