@@ -33,6 +33,5 @@ Aquí
 | Apolo 7 | Octubre 11, 1968 | Walter M. Schirra, Donn F. Eisele y Walter Cunningham. | Pruebas del rendimiento del cohete Saturno y su interacción con la tripulación; primer uso de los trajes Apolo; primeras retransmisiones en directo desde el espacio a la población general. Amerizaje a menos 15 km del lugar previsto para su descenso. |
 | Apolo 8 | Diciembre 21 y 27, 1968 | Frank Borman, James Lovell y William Anders | Primer vuelo tripulado que logró orbitar la luna; primer lanzamiento del Saturno V con tripulación. |
 | Apolo 9 | Marzo 3, 1969 | James A. McDivitt, David R. Scott y Russell L. Schweickart | Tercera misión tripulada del programa Apolo encargado de probar el módulo lunar en órbita terrestre. |
-| Apolo 10 | Mayo 18, 1969 | Thomas P. Stafford, John W. Young y Eugene Cernan | Por primera vez se situó el módulo lunar L. M. en una órbita próxima a la Luna, y se realizaron allí maniobras 
-de separación y acoplamiento entre el Módulo de Mando y Lunar. Se tomaron fotografías de posibles lugares de alunizaje. |
+| Apolo 10 | Mayo 18, 1969 | Thomas P. Stafford, John W. Young y Eugene Cernan | Por primera vez se situó el módulo lunar L. M. en una órbita próxima a la Luna, y se realizaron allí maniobras de separación y acoplamiento entre el Módulo de Mando y Lunar. Se tomaron fotografías de posibles lugares de alunizaje. |
 | Apolo 11 | Julio 16, 1969 | Neil Armstrong, Edwin E. Aldrin y Michael Collins | Primer descenso lunar, primera caminata sobre superficie lunar y primera toma de muestras. |
