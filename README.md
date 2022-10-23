@@ -32,6 +32,7 @@ Julio 16, 1969
    - 13:40 hrs (Houston, Texas) → Se activa la segunda fase (S-II) del cohete y se separa a los 186 km de altura.
    - 13:44 hrs (Houston, Texas) → Se activan los motores de las fase 3 por un breve momento para que la nave pueda entrar en una órbita de estacionamiento, donde orbitará la tierra por 2 hrs para asegurarse de que esté todo en orden.
    - 16: 46 hrs (Houston, Texas) → el módulo de servicio gira en 180º y se acopla al módulo lunar para extraerlo.
+
 Julio 19, 1969
    - A 75 horas de iniciada la expedición se da inicio a la inserción en la órbita lunar, colocándose a unos 110 km de altura de la Luna.
    - 21:41 hrs (Houston, Texas) → inicia la trayectoria Hofmann, curva que permitirá ponerse en órbita lunar. La nave alcanza una velocidad aproximada de 9.000 km/hr cuando comienza a ser atraída por la gravedad lunar.
