@@ -25,20 +25,14 @@ El cohete que llevó al Apolo 11 a la Luna, el Saturno V, fue una nave de múlti
 Aquí
 
 ### Un constante prueba y error
-| **Misión** | **Fecha** | **Tripulación** | **Resultado**|
-|:----:|:-----------------------------|:-----------------|
-| **Apolo 1** | Enero 27, 1967 | Virgil “Guss” Grissom, Edward White II y Roger Chaffee.  | Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los 3 astronautas.|
 
 | Misión | Fecha | Tripulación | Resultados |
 |:----:|:--------|:-----------------|:-----------------------------|
 | Apolo 1 | Enero 27, 1967 | Virgil “Guss” Grissom, Edward White II y Roger Chaffee. | Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los 3 astronautas. |
-| 2 | [Shenzhou](https://github.com/Programa-Shenzhou) | Valentina Núñez, Camila Azócar, Dennise Freymuth, Jean Dimter |
-| 3 | [Space X](https://github.com/Space-X-Elon-Musk) | Isidora Rozas, Valentina Waller, Magdalena Muñoz, María Jesús Vidal |
-| 4 | [Blue Origin]( https://github.com/Blue-Jeff-Bezos) | Fernanda Rozas, Trinidad Jerez, Isabela Aylwin, Rocío Villegas |
-| 5 | [Sputnik](https://github.com/SateliteSputnik) | Aylin Bastías, Dairyn Jordán, Fernanda Saldivia, Marcela Silva |
-| 6 | [Mercury](https://github.com/ProyectoMercury) | Natalia Valera, Pilar Alegre, Consuelo Gómez |
-| 7 | [Vostok](https://github.com/ProgramaVostok) | Catalina Cáceres, Macarena Ramírez, Olivia Bacigalupo, Manuela Munchmeyer |
-| 8 | [Virgin Galactic](https://github.com/Programa-Virgin-Galactic) | Amaya Butrón, Juan-Pablo Catalán, María Gracia Hoyl, Teresita Varas | 
-
-
-
+| Apolo 4 | Noviembre 9, 1967 | No tripulada | Primer vuelo de prueba sin tripulación y que usó un lanzador Saturno V como vehículo impulsor. |
+| Apolo 7 | Octubre 11, 1968 | Walter M. Schirra, Donn F. Eisele y Walter Cunningham. | Pruebas del rendimiento del cohete Saturno y su interacción con la tripulación; primer uso de los trajes Apolo; primeras retransmisiones en directo desde el espacio a la población general. Amerizaje a menos 15 km del lugar previsto para su descenso. |
+| Apolo 8 | Diciembre 21 y 27, 1968 | Frank Borman, James Lovell y William Anders | Primer vuelo tripulado que logró orbitar la luna; primer lanzamiento del Saturno V con tripulación. |
+| Apolo 9 | Marzo 3, 1969 | James A. McDivitt, David R. Scott y Russell L. Schweickart | Tercera misión tripulada del programa Apolo encargado de probar el módulo lunar en órbita terrestre. |
+| Apolo 10 | Mayo 18, 1969 | Thomas P. Stafford, John W. Young y Eugene Cernan | Por primera vez se situó el módulo lunar L. M. en una órbita próxima a la Luna, y se realizaron allí maniobras 
+de separación y acoplamiento entre el Módulo de Mando y Lunar. Se tomaron fotografías de posibles lugares de alunizaje. |
+| Apolo 11 | Julio 16, 1969 | Neil Armstrong, Edwin E. Aldrin y Michael Collins | Primer descenso lunar, primera caminata sobre superficie lunar y primera toma de muestras. |
