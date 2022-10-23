@@ -36,12 +36,15 @@ Julio 16, 1969
 Julio 19, 1969
    - A 75 horas de iniciada la expedición se da inicio a la inserción en la órbita lunar, colocándose a unos 110 km de altura de la Luna.
    - 21:41 hrs (Houston, Texas) → inicia la trayectoria Hofmann, curva que permitirá ponerse en órbita lunar. La nave alcanza una velocidad aproximada de 9.000 km/hr cuando comienza a ser atraída por la gravedad lunar.
+
 Julio 20, 1969
    - Comienzan los preparativos para aterrizar (inserción de la órbita de descenso) el módulo lunar Eagle, con Amstrong y Aldrin a bordo, en la superficie lunar.
    - 15:17 hrs (Houston, Texas) → Aterrizaje. Y Neil Amstrong se convierte en el primer hombre en caminar en la luna, proclamando la célebre frase: «Este es un pequeño paso para el Hombre, un salto gigante para la humanidad». Durante este tiempo se transmite la expedición al centro de control en la tierra, se toman fotografías, se recolecta y almacena material de la superficie lunar. Algunas de las muestras correspondieron a basalto y rocas ígneas fechadas con cerca de 3.7 millones de años de antigüedad.
    - 17:32 hrs (Houston, Texas) → Fin de la exploración.
+
 Julio 21. 1969
    - Despegue de la superficie lunar para reunirse con el módulo de mando Columbia, el módulo de descenso es abandonado (el módulo de ascenso es liberado en el espacio, quedando solo el módulo de mando y de servicio).
+
 Julio 24, 1969
    - El módulo de mando entró en la atmósfera de la Tierra con una velocidad de 11 032 metros por segundo y acuatizó en el Océano Pacífico.
 
