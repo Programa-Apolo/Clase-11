@@ -1,4 +1,4 @@
-# Clase11
+# Clase11: *Apolo 11*
 
 ### La Carrera Espacial
 La carrera espacial fue una pugna entre Estados Unidos y la Unión Soviética por la conquista del espacio que duró aproximadamente de 1955 a 1975. Supuso el esfuerzo paralelo de ambos países de explorar el espacio exterior con satélites artificiales y de enviar humanos al espacio y a la superficie lunar.
@@ -24,7 +24,8 @@ El cohete que llevó al Apolo 11 a la Luna, el Saturno V, fue una nave de múlti
 5. **Fase I:** Es la primera fase en desprenderse del cohete, tras 2:40 min de combustión y 61 km de altura.
 
 ### Intinerario del viaje
-Aquí escribir
+1. 16 de julio de 1969
+   - 13:32 hrs (Houston, Texas) → Despegue del cohete Saturno V desde el Pad 39A en el Centro espacial Kennedy (Centro Espacial de Cabo cañaveral en Florida, EEUU). 
 
 ### Un constante prueba y error
 
