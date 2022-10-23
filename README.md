@@ -26,6 +26,7 @@ Aquí
 
 ### Un constante prueba y error
 | **Misión** | **Fecha** | **Tripulación** | **Resultado**|
+|:----:|:-----------------------------|:-----------------|
 | **Apolo 1** | Enero 27, 1967 | Virgil “Guss” Grissom, Edward White II y Roger Chaffee.  | Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los 3 astronautas.|
 
 
