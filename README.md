@@ -29,7 +29,7 @@ Aquí
 |:----:|:-----------------------------|:-----------------|
 | **Apolo 1** | Enero 27, 1967 | Virgil “Guss” Grissom, Edward White II y Roger Chaffee.  | Durante una prueba de los sistemas del módulo de mando de la Apolo 1 hubo un brutal incendio donde murieron los 3 astronautas.|
 
-| Nº | Subtemática de la organización | Integrantes |
+| Misión | Fecha | Tripulación | | Resultados |
 |:----:|:-----------------------------|:-----------------|
 | 1 | [Apolo](https://github.com/Programa-Apolo) | Karina Anacona, Catalina Vallejos, Dominique Rezepka, Javiera Castro |
 | 2 | [Shenzhou](https://github.com/Programa-Shenzhou) | Valentina Núñez, Camila Azócar, Dennise Freymuth, Jean Dimter |
