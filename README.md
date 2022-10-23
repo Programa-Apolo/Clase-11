@@ -37,3 +37,7 @@ Aquí escribir
 | Apolo 9 | Marzo 3, 1969 | James A. McDivitt, David R. Scott y Russell L. Schweickart | Tercera misión tripulada del programa Apolo encargado de probar el módulo lunar en órbita terrestre. |
 | Apolo 10 | Mayo 18, 1969 | Thomas P. Stafford, John W. Young y Eugene Cernan | Por primera vez se situó el módulo lunar L. M. en una órbita próxima a la Luna, y se realizaron allí maniobras de separación y acoplamiento entre el Módulo de Mando y Lunar. Se tomaron fotografías de posibles lugares de alunizaje. |
 | Apolo 11 | Julio 16, 1969 | Neil Armstrong, Edwin E. Aldrin y Michael Collins | Primer descenso lunar, primera caminata sobre superficie lunar y primera toma de muestras. |
+
+### Fuentes
+
+(https://www.nationalgeographicla.com/ciencia/2022/04/como-la-carrera-espacial-puso-en-marcha-una-era-de-exploracion-mas-alla-de-la-tierra)
